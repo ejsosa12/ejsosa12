@@ -25,6 +25,7 @@ software from the ground up.
 ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Lua Badge](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 ![Shell Script Badge](https://img.shields.io/badge/-Shell_Script-4EAA25?style=for-the-badge&logo=GNU+Bash&logoColor=white)
+
 ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
