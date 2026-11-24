@@ -1,22 +1,24 @@
-## Hi there!
-####
+## Hi there, I'm José!
+Systems Engineering student & Software Developer. 
 
-I'm a José. Systems Engineering student interested in backend development,
-software architecture, APIs, Linux and Lowlevel Systems.
-
-## About me
-
-I enjoy understanding how things work under the hood and building
-software from the ground up.
-
-📚 Currently learning Flask, databases, and Docker.
-
-🐧 Linux enthusiast who enjoys working with Debian and Neovim.
-
-🎯 Goal: Become a Backend Developer and build useful, real-world projects.
+### About me
 
 
-## Technologies & Tools 🧰
+  ```toml
+[jose.ej-pj@github]
+
+Interested_in = "Backend development, APIs, Linux and Lowlevel Systems" 
+
+Linux = "Linux enthusiast who enjoys working with Debian and Neovim"
+
+Stack = [ "Angular", "Flask", "MariaDB/MySQL" ]
+
+  ```
+
+![ejsosa12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejsosa12&theme=gruvbox&hide_border=true)
+
+
+## Skills
 
 ### Lenguages 
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -36,6 +38,9 @@ software from the ground up.
 
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 ### Editors
